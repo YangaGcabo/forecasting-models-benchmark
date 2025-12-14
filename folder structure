@@ -1,0 +1,8 @@
+forecasting-models-benchmark/
+├── src/
+│   ├── train.py
+│   └── evaluate.py
+├── notebooks/
+│   └── comparison.ipynb
+├── README.md
+└── requirements.txt
